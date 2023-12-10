@@ -11,7 +11,7 @@
     "url": "git+https://github.com/kai-harvey/html-compile.git"
   },
   "author": "kai harvey",
-  "license": "ISC",
+  "license": "MIT",
   "bin": {
       "htmc": "./pack.js"
   },
