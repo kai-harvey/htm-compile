@@ -1,6 +1,6 @@
 # Introduction 
 
-A is a dead simple command line tool for for bundling source files referenced in an html page.
+A dead simple command line tool for for bundling source files referenced in an html page.
 
 Merges CSS and JS files. Converts fonts and favicon files to base64 and embeds them inline.
 
