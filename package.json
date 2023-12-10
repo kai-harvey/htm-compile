@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kai-harvey/html-compile.git"
+    "url": "git+https://github.com/kai-harvey/htm-compile.git"
   },
   "author": "kai harvey",
   "license": "MIT",
@@ -16,7 +16,7 @@
       "htmc": "./pack.js"
   },
   "bugs": {
-    "url": "https://github.com/kai-harvey/html-compile/issues"
+    "url": "https://github.com/kai-harvey/htm-compile/issues"
   },
-  "homepage": "https://github.com/kai-harvey/html-compile#readme"
+  "homepage": "https://github.com/kai-harvey/htm-compile#readme"
 }
