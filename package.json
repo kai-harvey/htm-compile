@@ -1,0 +1,22 @@
+{
+  "name": "htm-compile",
+  "version": "",
+  "description": "Compile sources in html page",
+  "main": "pack.js",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kai-harvey/html-compile.git"
+  },
+  "author": "kai harvey",
+  "license": "ISC",
+  "bin": {
+      "htmc": "./pack.js"
+  },
+  "bugs": {
+    "url": "https://github.com/kai-harvey/html-compile/issues"
+  },
+  "homepage": "https://github.com/kai-harvey/html-compile#readme"
+}
